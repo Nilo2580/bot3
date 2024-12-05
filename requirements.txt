@@ -1,1 +1,1 @@
-scapy
+python-telegram-bot
